@@ -5,6 +5,8 @@ $ git clone https://github.com/HK-Hacker/HKhash
 
 $ pkg install mpv
 
+$ pkg install figlet
+
 $ cd HKhash
 
 $ python2 HKhash.py
