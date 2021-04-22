@@ -12,7 +12,8 @@ $ cd HKhash
 $ python2 HKhash.py
 
 
-:التشفيرات المدعومة
+Supported hashes:
+
 [١] md4
 [٢] md5
 [٣] sha1  
