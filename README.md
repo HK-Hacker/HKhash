@@ -3,6 +3,8 @@
 
 $ git clone https://github.com/HK-Hacker/HKhash
 
+$ pkg install mpv
+
 $ cd HKhash
 
 $ python2 HKhash.py
